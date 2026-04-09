@@ -1,0 +1,29 @@
+{
+  "8601234567": {
+    "ho_ten": "Nguyễn Văn A",
+    "ma_nv": "NV001",
+    "dependents": [
+      {
+        "ten": "1",
+        "quan_he": "Con",
+        "bat_dau": "2026-04-09",
+        "ket_thuc": "2030-12-31"
+      }
+    ]
+  },
+  "8607654321": {
+    "ho_ten": "Trần Thị B",
+    "ma_nv": "NV002",
+    "dependents": []
+  },
+  "8609876543": {
+    "ho_ten": "Lê Văn C",
+    "ma_nv": "",
+    "dependents": []
+  },
+  "079202034837": {
+    "ho_ten": "Ho Anh Khoa",
+    "ma_nv": "NV002",
+    "dependents": []
+  }
+}
