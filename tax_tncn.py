@@ -327,7 +327,7 @@ st.markdown(f'<div class="main-title">{t("🧾 Hệ Thống Tính Thuế TNCN")}
 st.markdown(f'<div class="sub-title">{t("Tính thuế Thu Nhập Cá Nhân theo Biểu thuế Lũy tiến từng phần — Nghị quyết 954/2020/UBTVQH14")}</div>', unsafe_allow_html=True)
 
 st.warning(t('⚖️ DỰ ÁN CÁ NHÂN (PORTFOLIO PROJECT): Trang web này là một dự án cá nhân mang tính chất thực hành và ứng dụng (Software Engineering Portfolio). Tuyên bố miễn trừ trách nhiệm: Các công cụ tính toán và kết quả thuế trên hệ thống này chỉ mang tính chất tham khảo và ước tính. Đây không phải pháp nhân đại diện cho cơ quan thuế hay cung cấp lời khuyên luật định chính thức.'))
-st.markdown(f"**👉 {t('Nếu bạn muốn xem thêm dự án khác hãy')} [nhấp vào đây](https://portfolio-394g.vercel.app)**")
+st.markdown(f"**👉 {t('Nếu bạn muốn xem thêm dự án khác hãy')} [nhấp vào đây](https://hoanhkhoa.vercel.app)**")
 
 
 
